@@ -13,7 +13,6 @@
 
 ### [G131: Providing descriptive labels](http://www.w3.org/TR/WCAG20-TECHS/G131.html)
 
-Labels descritivos
 >> **Ação**: Adicionar `role="navigation"` e `role="menuitem"` no menu e itens de navegação
 
 >> **Motivo**: Deixar os itens de navegação mais fáceis de serem entendidos do que os itens de menu (com textos curtos).
