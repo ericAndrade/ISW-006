@@ -17,3 +17,10 @@ Labels descritivos
 >> **Ação**: Adicionar `role="navigation"` e `role="menuitem"` no menu e itens de navegação
 
 >> **Motivo**: Deixar os itens de navegação mais fáceis de serem entendidos do que os itens de menu (com textos curtos).
+
+
+### [H97: Grouping related links using the nav element](http://www.w3.org/TR/WCAG20-TECHS/G65.html)
+
+>> **Ação**: Adicionamos breadcrumbs "migalha de pão" Você está em: Página inicial > Ensino > Editais
+
+>> **Motivo**: Fornecer um mecanismo que permita ao usuário orientar-se dentro de um conjunto de páginas permitindo que ele saiba onde está no momento. 
