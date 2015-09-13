@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 , h3 {
-	margin: 10px 0;
+	margin: 0 0 10px 0;
 	text-indent: 1em;
 	padding: .4em 0; 
 	letter-spacing: 0.1em;
@@ -113,4 +113,27 @@ img{
 	height: 672px;
 	/*-webkit-transition: height 5s;*/
     transition: height ease-in-out 1s;
+}
+
+nav ul{
+	background: #000;
+}
+
+nav li{
+	display: inline-block;
+	margin-right: 1em;
+}
+
+nav a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.ativo{
+	border-bottom: 2px solid white;
+}
+
+[itemprop=breadcrumb]{
+	line-height: 40px;
+	vertical-align: middle;
 }
